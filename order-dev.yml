@@ -12,3 +12,5 @@ spring:
     username: root
 env:
   dev
+label:
+  release
